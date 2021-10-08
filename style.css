@@ -1,0 +1,38 @@
+body{
+    background-color: #F6F6F6;
+}
+#anaKutu{
+    position: relative;
+    width: 400px;
+    height: 250px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid rgb(76, 238, 35);
+    background-color:#F6F6F6;
+}
+.dugme{
+    border: 1px solid white;
+    width: 80px;
+    height: 40px;
+    margin:2px;
+    background-color: rgb(122, 122, 126);
+    font-weight: bolder;
+}
+#input{
+    width: 250px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+    font-weight: bolder;
+    color: rgb(148, 0, 30);
+}
+#arti{
+    height: 44px;
+}
+#sifir{
+    width: 168px;
+}
+#esit{
+    background-color: rgb(88, 104, 243);
+}
